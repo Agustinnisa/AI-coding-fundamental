@@ -1,0 +1,8 @@
+# Keamanan File Rahasia
+.env
+.env.*
+!.env.example
+
+# File Sampah Sistem / Cache Python & Jupyter
+__pycache__/
+.ipynb_checkpoints/
